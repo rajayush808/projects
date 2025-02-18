@@ -1,0 +1,36 @@
+#univ{
+    display: flexbox;
+    background-color: aliceblue;
+    border: solid;
+    width: 1366px;
+    height: 300px;
+    justify-self: center;
+    padding: 10px;
+
+}
+#title{
+    display: flexbox;
+    border: solid;
+    padding: 10px;
+    background-color:rgba(250, 235, 215,0.5);
+    width: 683px;
+    justify-self: center;
+    text-align: center;
+    margin: 20px;
+}
+#result{
+    display: flexbox;
+    border: solid;
+    padding :10px;
+    background-color: rgba(173, 255, 47,0.5);
+    justify-self: center;
+    margin: 20px;
+}
+#yolo{
+    justify-self: center;
+    display: flex;
+}
+h1{
+    text-align: center;
+    color: rgb(220, 50, 34);
+}
